@@ -68,8 +68,18 @@ export const Button = styled.button`
   margin-top: 10px;
 `;
 
-
 export const FormCadastroSuccess = styled.div`
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 100%;
+  max-width: 300px;
+  height: 275px;
+  margin: 20px 0 60px;
+`;
+
+export const FormCadastroLoader = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
