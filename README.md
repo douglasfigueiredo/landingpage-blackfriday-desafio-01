@@ -1,6 +1,8 @@
 ## LandingPage Black Friday: é uma aplicação para divugar promoções de produtos para Black Friday.
 
 
+[Clique aqui](https://elvino.netlify.app/) para acessar o projeto online.
+
 ### Objetivo do projeto:
 - Salvar os dados do forluário no LocalStorage.
 
@@ -10,9 +12,6 @@
 - Styled Components - Para estilização css.
 - LocalStore do prórpio navegador.
 - Images Fakes para compor o visual.
-
-
-[Clique aqui](https://elvino.netlify.app/) para acessar o projeto online.
 
 
 ### Como usar o projeto:
