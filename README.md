@@ -4,13 +4,15 @@
 [Clique aqui](https://elvino.netlify.app/) para acessar o projeto online.
 
 ### Objetivo do projeto:
+
 - Salvar os dados do forluário no LocalStorage.
 
-### Tecnoligias utilizadas:
+
+### Composição do projeto:
 
 - ReactJS - Para criação dos componets UI
 - Styled Components - Para estilização css.
-- LocalStore do prórpio navegador.
+- LocalStore.
 - Images Fakes para compor o visual.
 
 
