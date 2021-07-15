@@ -1,11 +1,9 @@
-## LandingPage Black Friday: é uma aplicação para divugar promoções de produtos para Black Friday.
-
-
-[Clique aqui](https://elvino.netlify.app/) para acessar o projeto online.
+## Desafio-01 Gama Acadmy #hiringcoders VTEX
 
 ### Objetivo do projeto:
 
-- Salvar os dados do forluário no LocalStorage.
+Aplicação para divugar promoções de produtos na Black Friday com intuito de salvar os dados em LocalStorage.
+[Clique aqui](https://elvino.netlify.app/) para acessar o projeto online.
 
 
 ### Composição do projeto:
