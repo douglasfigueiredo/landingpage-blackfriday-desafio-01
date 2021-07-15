@@ -1,4 +1,4 @@
-## Desafio-01 | [Gama Acadmy](https://www.gama.academy/) para o programa #hiringcoders da [VTEX](https://vtex.com/)
+## Desafio-01 | [Gama Academy](https://www.gama.academy/) para o programa #hiringcoders da [VTEX](https://vtex.com/)
 
 ### Objetivo do projeto:
 
