@@ -6,10 +6,10 @@
 
 ### Tecnoligias utilizadas:
 
-.ReactJS - Para criação dos componets UI
-.Styled Components - Para estilização css.
-.LocalStore do prórpio navegador.
-.Images Fakes para compor o visual.
+- ReactJS - Para criação dos componets UI
+- Styled Components - Para estilização css.
+- LocalStore do prórpio navegador.
+- Images Fakes para compor o visual.
 
 
 [Clique aqui](https://gamagit-blond.vercel.app/) para acessar o projeto online.
