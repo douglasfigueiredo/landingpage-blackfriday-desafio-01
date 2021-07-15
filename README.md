@@ -12,7 +12,7 @@
 - Images Fakes para compor o visual.
 
 
-[Clique aqui](https://gamagit-blond.vercel.app/) para acessar o projeto online.
+[Clique aqui](https://elvino.netlify.app/) para acessar o projeto online.
 
 
 ### Como usar o projeto:
