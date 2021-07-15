@@ -3,6 +3,7 @@
 ### Objetivo do projeto:
 
 Aplicação para divugar promoções de produtos na Black Friday com intuito de salvar os dados em LocalStorage.
+
 [Clique aqui](https://elvino.netlify.app/) para acessar o projeto online.
 
 
